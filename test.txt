@@ -1,0 +1,1 @@
+// Make an image linkable. and the link will open in new tab
